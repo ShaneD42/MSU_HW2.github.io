@@ -1,12 +1,13 @@
 
 
 body{
-    background-color: #F4F4F4;
+    background-color: #F7D1BA;
 }
 
 h1{
     font-family: 'Pacifico', cursive;
 }
+
 
 .navbar{
     color: #e5eaf5;
@@ -14,7 +15,11 @@ h1{
 
 .jumbotron{
     background-color: #D49A89;
-    color: #F7D1BA;
+    color: #557571;
+}
+
+#contact-list{
+    width: 300px;
 }
 
 .html5-picture{
