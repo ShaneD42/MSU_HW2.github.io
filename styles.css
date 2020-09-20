@@ -1,12 +1,20 @@
 
 
 body{
-    background-color: #e5eaf5;
+    background-color: #F4F4F4;
+}
+
+h1{
+    font-family: 'Pacifico', cursive;
+}
+
+.navbar{
+    color: #e5eaf5;
 }
 
 .jumbotron{
-    background-color: #e5eaf5;
-    color:#494D5F;
+    background-color: #D49A89;
+    color: #F7D1BA;
 }
 
 .html5-picture{
@@ -26,6 +34,18 @@ object-fit: cover;
 
 .col-md-4{
     text-align: center;
+    height: 400px;
+    word-wrap: break-word;
+}
+
+.card{
+    display:inline-block;
+   
+}
+
+.btn {
+    background-color: #F7C331;
+    border-color: #F7C331;
 }
 
 #skills{
