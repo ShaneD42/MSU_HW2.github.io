@@ -16,6 +16,8 @@ h1{
 .jumbotron{
     background-color: #D49A89;
     color: #557571;
+    margin: 15px;
+    padding: 20px;
 }
 
 #contact-list{
@@ -62,4 +64,7 @@ footer{
     text-align: center;
 }
 
+.form-group{
+    width: 400px;
+}
 
