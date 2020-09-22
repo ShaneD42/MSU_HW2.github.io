@@ -8,6 +8,10 @@ h1{
     font-family: 'Pacifico', cursive;
 }
 
+h5{
+    font-family: 'Pacifico', cursive;
+}
+
 
 .navbar{
     color: #e5eaf5;
@@ -55,6 +59,15 @@ object-fit: cover;
     border-color: #F7C331;
 }
 
+.media{
+    margin: 40px;
+    padding: 40px;
+    border-style: solid;
+    border-color: #D49A89;
+    color: #557571;
+
+}
+
 #skills{
     text-align: center;
     text-decoration: underline;
@@ -66,5 +79,9 @@ footer{
 
 .form-group{
     width: 400px;
+}
+
+.card{
+    margin: 20px;
 }
 
