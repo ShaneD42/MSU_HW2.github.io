@@ -93,3 +93,12 @@ footer{
     margin: 20px;
 }
 
+#resume_title {
+   text-align: center;
+}
+
+#resume{
+   margin-left: 400px;  
+   padding-top: 10px;
+    
+}
